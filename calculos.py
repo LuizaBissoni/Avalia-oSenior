@@ -1,5 +1,9 @@
 # Calcular o máximo, o mínimo, a média, a mediana, o desvio padrão e a variância da quantidade total de palavras (Word_Count) para cada mês;
 
+# biblioteca Pandas
+import pandas as pd
+import plotly.express as px
+
 # link em variável
 palavras = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTU8zYASHDKNCjZ2EyK7kINt_e34XvFqC5mlXWa5Q5OED1xkDpQnMb1iPq3oCXDIabyGBRQpi1GzugL/pub?gid=2086507550&single=true&output=csv'
 # variável em tabela

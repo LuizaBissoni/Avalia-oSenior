@@ -1,4 +1,7 @@
 #Exibir o dia de cada mês que possui a maior sequência de mensagens comuns (não spam)
+# biblioteca Pandas
+import pandas as pd
+import plotly.express as px
 
 # spam por dia e mês
 # link em variável

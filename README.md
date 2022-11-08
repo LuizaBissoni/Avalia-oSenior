@@ -1,2 +1,2 @@
-## AvalicaoSenior
-### Biblioteca usada Pandas 
+## Avalição Senior
+### Bibliotecas: Pandas | Plotly
